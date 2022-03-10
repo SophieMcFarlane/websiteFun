@@ -12,6 +12,5 @@
 .circular--landscape img{
     width: auto;
     height: 100%;
-    padding-left: 0px;
-    padding-right: 0px;
+    margin-left: -125px;
 }
